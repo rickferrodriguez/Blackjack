@@ -1,2 +1,2 @@
-# Projects
+# This is my first project called Blackjack
 🤖
